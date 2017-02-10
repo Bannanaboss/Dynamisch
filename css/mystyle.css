@@ -1,0 +1,25 @@
+body {
+    background-color: #e2a73f;
+    font-family: Arial;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: #cccccc;
+}
